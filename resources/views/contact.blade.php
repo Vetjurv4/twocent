@@ -15,12 +15,7 @@
         </div>
     </div>
 
-    <!-- VIDEO -->
-    <div class="video-container">
-        <video autoplay loop="true">
-            <source type="video/mp4" src="videos/video.mp4">
-        </video>
-    </div>
+  
 
     <a href="#next-section" class="smoothscroll scroll-button">
         <span class=" icon-keyboard_arrow_down"></span>
