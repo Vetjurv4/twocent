@@ -52,9 +52,9 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'https://twocent.herokuapp.com/'),
+    'url' => env('APP_URL', 'https://twocent.herokuapp.com'),
 
-    'asset_url' => env('ASSET_URL', 'https://twocent.herokuapp.com/'),
+    'asset_url' => env('ASSET_URL', 'https://twocent.herokuapp.com'),
 
     /*
     |--------------------------------------------------------------------------
