@@ -18,7 +18,13 @@
         </div>
     </div>
 
-    
+      <!-- VIDEO -->
+      <div class="video-container">
+        <video autoplay loop="true">
+          <source type="video/mp4" src="videos/video.mp4">
+        </video>
+      </div>
+
 
     <a href="#about-us-section" class="scroll-button smoothscroll">
         <span class=" icon-keyboard_arrow_down"></span>
@@ -36,9 +42,9 @@
                 <h2 class="section-title mb-4">Who Are You Guys</h2>
                 <p>
                    We created this website just to flex and show-off some of our skills because we are the best. We can write 
-                   196745333 pages about us, but you couldn't even read the previous number so there's no needed. 
+                   196745333 pages about us, but you couldn't even read the previous number so there's no need. 
                    This is an application for people who have something to share, if you want to express your views, debate on
-                   a topic, share knowledge or voice this is the App for you.
+                   a topic, share knowledge or voice out, this is the App for you.
                 </p>
 
                 <p class="mt-4"><a href="{{ route('about') }}" class="spepcial_link">Read more about us</a></p>
