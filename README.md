@@ -1,8 +1,10 @@
-#TwoCent
+# TwoCent
 
 This is a web application developed in Laravel 6 for people who have something to share, if you want to express your views, debate on a topic, share knowledge or voice out, this is the App for you.
+
 To test this this application check the demo [Here](https://twocent.herokuapp.com/) or follow the #installation process to run it on your local machine
 
+Note: This is not a real-live project.
 ----------
 
 # Getting started
